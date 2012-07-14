@@ -1,0 +1,8 @@
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\Temp\bin\Debug\UnityEditor.dll
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\Temp\bin\Debug\UnityEngine.dll
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\Temp\bin\Debug\nunit.framework.dll
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\vantan\Documents\GitHub\gp11-android-0714\obj\Debug\Assembly-CSharp-firstpass.pdb
